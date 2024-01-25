@@ -15,6 +15,7 @@ PRS project for Chatterjee lab
 
     - Waiting for Yunfeng
     - Add height PRS variants/weights info downloaded from PGS catalog (https://www.pgscatalog.org/score/PGS000297/)
+    - Test run PRS with PLINK
 
 ## 01/22/2024
 
