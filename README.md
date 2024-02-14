@@ -21,3 +21,8 @@ PRS project for Chatterjee lab
 
     - install and test run PRSice (https://choishingwan.github.io/PRSice/)
     - compare heights calculated from PLINK/PRSice with actual height
+
+## 02/13/2024
+
+    - Upload 10 PCAs for all, also for removing 2.5SD PC outliers
+    - Test pipeline for height and BMI using PRS from GIANT consortium
