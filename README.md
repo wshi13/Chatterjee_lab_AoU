@@ -26,3 +26,7 @@ PRS project for Chatterjee lab
 
     - Upload 10 PCAs for all, also for removing 2.5SD PC outliers
     - Test pipeline for height and BMI using PRS from GIANT consortium
+
+## 02/15/2024
+
+    - Add Python notebook to the GitHub page
