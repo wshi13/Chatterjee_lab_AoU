@@ -30,3 +30,8 @@ PRS project for Chatterjee lab
 ## 02/15/2024
 
     - Add Python notebook to the GitHub page
+
+## 03/06/2024
+
+    - Add ACAF list of variants
+
